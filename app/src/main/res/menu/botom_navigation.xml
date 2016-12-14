@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/university"
+        android:icon="@drawable/ic_location_school"
+        android:title="咨询高校" />
+    <item
+        android:id="@+id/expert"
+        android:icon="@drawable/ic_phone"
+        android:title="咨询专家" />
+    <item
+        android:id="@+id/favorite"
+        android:icon="@drawable/ic_favorite"
+        android:title="我的关注" />
+
+    <item
+        android:id="@+id/me"
+        android:icon="@drawable/ic_person"
+        android:title="我"/>
+</menu>
